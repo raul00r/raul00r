@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d0d1a"/>
+      <stop offset="50%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#0d0d1a"/>
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#d4af37"/>
+      <stop offset="50%" style="stop-color:#c9a227"/>
+      <stop offset="100%" style="stop-color:#b8960f"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+  
+  <!-- Egyptian pattern top -->
+  <path d="M0,0 L30,15 L60,0 L90,15 L120,0 L150,15 L180,0 L210,15 L240,0 L270,15 L300,0 L330,15 L360,0 L390,15 L420,0 L450,15 L480,0 L510,15 L540,0 L570,15 L600,0 L630,15 L660,0 L690,15 L720,0 L750,15 L780,0 L810,15 L840,0 L870,15 L900,0 L930,15 L960,0 L990,15 L1020,0 L1050,15 L1080,0 L1110,15 L1140,0 L1170,15 L1200,0" stroke="url(#goldGrad)" stroke-width="2" fill="none" opacity="0.6"/>
+  
+  <!-- Egyptian pattern bottom -->
+  <path d="M0,300 L30,285 L60,300 L90,285 L120,300 L150,285 L180,300 L210,285 L240,300 L270,285 L300,300 L330,285 L360,300 L390,285 L420,300 L450,285 L480,300 L510,285 L540,300 L570,285 L600,300 L630,285 L660,300 L690,285 L720,300 L750,285 L780,300 L810,285 L840,300 L870,285 L900,300 L930,285 L960,300 L990,285 L1020,300 L1050,285 L1080,300 L1110,285 L1140,300 L1170,285 L1200,300" stroke="url(#goldGrad)" stroke-width="2" fill="none" opacity="0.6"/>
+  
+  <!-- Ankh symbol left -->
+  <g transform="translate(100, 150)" filter="url(#glow)">
+    <ellipse cx="0" cy="-40" rx="20" ry="25" fill="none" stroke="url(#goldGrad)" stroke-width="4"/>
+    <line x1="0" y1="-15" x2="0" y2="50" stroke="url(#goldGrad)" stroke-width="4"/>
+    <line x1="-25" y1="5" x2="25" y2="5" stroke="url(#goldGrad)" stroke-width="4"/>
+  </g>
+  
+  <!-- Anubis head silhouette center -->
+  <g transform="translate(600, 50)" filter="url(#glow)">
+    <!-- Ears -->
+    <path d="M-40,80 L-55,20 L-35,50 Z" fill="url(#goldGrad)"/>
+    <path d="M40,80 L55,20 L35,50 Z" fill="url(#goldGrad)"/>
+    <!-- Head -->
+    <ellipse cx="0" cy="90" rx="45" ry="55" fill="url(#goldGrad)"/>
+    <!-- Snout -->
+    <path d="M-20,120 L0,180 L20,120 Z" fill="url(#goldGrad)"/>
+    <!-- Eyes -->
+    <ellipse cx="-18" cy="80" rx="8" ry="5" fill="#0d0d1a"/>
+    <ellipse cx="18" cy="80" rx="8" ry="5" fill="#0d0d1a"/>
+    <!-- Eye of Horus marks -->
+    <path d="M-26,85 Q-35,95 -40,90" stroke="#0d0d1a" stroke-width="2" fill="none"/>
+    <path d="M26,85 Q35,95 40,90" stroke="#0d0d1a" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Ankh symbol right -->
+  <g transform="translate(1100, 150)" filter="url(#glow)">
+    <ellipse cx="0" cy="-40" rx="20" ry="25" fill="none" stroke="url(#goldGrad)" stroke-width="4"/>
+    <line x1="0" y1="-15" x2="0" y2="50" stroke="url(#goldGrad)" stroke-width="4"/>
+    <line x1="-25" y1="5" x2="25" y2="5" stroke="url(#goldGrad)" stroke-width="4"/>
+  </g>
+  
+  <!-- Hieroglyph decorations -->
+  <text x="200" y="100" fill="url(#goldGrad)" font-size="24" opacity="0.4">𓂀</text>
+  <text x="250" y="200" fill="url(#goldGrad)" font-size="24" opacity="0.4">𓃀</text>
+  <text x="180" y="250" fill="url(#goldGrad)" font-size="24" opacity="0.4">𓆣</text>
+  
+  <text x="950" y="100" fill="url(#goldGrad)" font-size="24" opacity="0.4">𓂀</text>
+  <text x="1000" y="200" fill="url(#goldGrad)" font-size="24" opacity="0.4">𓃀</text>
+  <text x="980" y="250" fill="url(#goldGrad)" font-size="24" opacity="0.4">𓆣</text>
+  
+  <!-- Name text -->
+  <text x="600" y="280" text-anchor="middle" fill="url(#goldGrad)" font-family="Georgia, serif" font-size="28" font-weight="bold" filter="url(#glow)">A N U B I S   D E V</text>
+  
+  <!-- Decorative lines -->
+  <line x1="350" y1="270" x2="480" y2="270" stroke="url(#goldGrad)" stroke-width="1" opacity="0.6"/>
+  <line x1="720" y1="270" x2="850" y2="270" stroke="url(#goldGrad)" stroke-width="1" opacity="0.6"/>
+</svg>
