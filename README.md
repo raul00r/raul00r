@@ -1,32 +1,32 @@
 <div align="center">
 
-# 𓂀 ANUBIS 𓂀
+# 4NPU
 
-<img src="https://raw.githubusercontent.com/raul00r/raul00r/main/anubis-banner.svg" alt="Anubis Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/4npu/4npu/main/anubis-banner.svg" alt="4npu Banner" width="100%"/>
 
-### *"Guardião do código, protetor dos repositórios"*
+### *Developer & Digital Artist*
 
 ---
 
-[![GitHub followers](https://img.shields.io/github/followers/raul00r?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=c9a227)](https://github.com/raul00r)
-[![Profile Views](https://komarev.com/ghpvc/?username=raul00r&style=for-the-badge&color=c9a227&labelColor=1a1a2e)](https://github.com/raul00r)
+[![GitHub followers](https://img.shields.io/github/followers/4npu?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=c9a227)](https://github.com/4npu)
+[![Profile Views](https://komarev.com/ghpvc/?username=4npu&style=for-the-badge&color=c9a227&labelColor=1a1a2e)](https://github.com/4npu)
 
 </div>
 
 ---
 
-## 𓃀 Sobre Mim
+## About
 
 ```hieroglyph
-🔮 Desenvolvedor criativo & inovador
-⚡ Especialista em automação e produtividade
-🎬 Criador de ferramentas para edição de vídeo e imagem
-🤖 Entusiasta de Inteligência Artificial
+� Creative Developer
+⚡ Automation & Productivity Specialist
+🎬 Video & Image Processing Tools
+🤖 AI Enthusiast
 ```
 
 ---
 
-## 𓁿 Tecnologias & Ferramentas
+## Tech Stack
 
 <div align="center">
 
@@ -41,27 +41,27 @@
 
 ---
 
-## 𓆣 Estatísticas
+## Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raul00r&show_icons=true&theme=dark&bg_color=1a1a2e&title_color=c9a227&text_color=eaeaea&icon_color=c9a227&border_color=c9a227" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=4npu&show_icons=true&theme=dark&bg_color=1a1a2e&title_color=c9a227&text_color=eaeaea&icon_color=c9a227&border_color=c9a227" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raul00r&theme=dark&background=1a1a2e&ring=c9a227&fire=c9a227&currStreakLabel=c9a227&border=c9a227" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4npu&theme=dark&background=1a1a2e&ring=c9a227&fire=c9a227&currStreakLabel=c9a227&border=c9a227" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 𓂋 Projetos em Destaque
+## Projects
 
 <div align="center">
 
-| 🏛️ Projeto | 📜 Descrição |
+| 🏛️ Project | 📜 Description |
 |-----------|-------------|
-| **Auto Photo Editor** | Editor automático de fotos com IA |
-| **Video Editor Pro** | Editor de vídeo profissional para stock |
-| **Stock Manager** | Gerenciador de conteúdo stock com IA |
+| **Auto Photo Editor** | AI-powered photo editor |
+| **Video Editor Pro** | Professional stock video editor |
+| **Stock Manager** | AI content manager |
 
 </div>
 
@@ -69,14 +69,10 @@
 
 <div align="center">
 
-### 𓃭 *"Como Anubis guia as almas, eu guio o código para sua forma perfeita."*
-
-![Snake animation](https://raw.githubusercontent.com/raul00r/raul00r/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/4npu/4npu/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-**𓂀 ANUBIS DEV 𓂀**
-
-*Guardião do código*
+**4NPU**
 
 </div>

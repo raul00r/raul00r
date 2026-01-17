@@ -69,7 +69,7 @@
   <text x="980" y="250" fill="url(#goldGrad)" font-size="24" opacity="0.4">𓆣</text>
   
   <!-- Name text -->
-  <text x="600" y="280" text-anchor="middle" fill="url(#goldGrad)" font-family="Georgia, serif" font-size="28" font-weight="bold" filter="url(#glow)">A N U B I S   D E V</text>
+  <text x="600" y="280" text-anchor="middle" fill="url(#goldGrad)" font-family="Georgia, serif" font-size="28" font-weight="bold" filter="url(#glow)">4   N   P   U</text>
   
   <!-- Decorative lines -->
   <line x1="350" y1="270" x2="480" y2="270" stroke="url(#goldGrad)" stroke-width="1" opacity="0.6"/>
